@@ -6,9 +6,9 @@
 
 ## Instalación
 
-```bash $ git clone https://github.com/SamaelAS/Subdominios```
+```bash $ git clone https://github.com/Mynor5to/Dominios5to```
 
-```bash $ cd ctfr```
+```bash $ cd Dominios5to```
 
 ```bash $ pip3 install -r requirements.txt```
 
